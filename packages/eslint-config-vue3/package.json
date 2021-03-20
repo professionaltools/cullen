@@ -21,5 +21,8 @@
     "eslint-plugin-typescript": "^0.14.0",
     "eslint-plugin-vue": "^7.4.1"
   },
-  "gitHead": "113b64c3f0ffac4417f68e11825c2ec8961b4b93"
+  "gitHead": "38433d405ef2db00908d8a4fa661045abd94d8ae",
+  "publishConfig": {
+    "access": "public"
+  }
 }
