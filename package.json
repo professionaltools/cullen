@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "cullen",
   "private": true,
   "workspaces": [
     "packages/*"
