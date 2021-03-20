@@ -1,6 +1,6 @@
 {
-  "name": "@cullen/eslint-config-vue",
-  "version": "0.0.2",
+  "name": "eslint-cullen-vue",
+  "version": "0.0.3",
   "description": "vue eslint",
   "keywords": [
     "vue",
@@ -19,9 +19,5 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-vue": "^7.4.1"
-  },
-  "gitHead": "38433d405ef2db00908d8a4fa661045abd94d8ae",
-  "publishConfig": {
-    "access": "public"
   }
 }
