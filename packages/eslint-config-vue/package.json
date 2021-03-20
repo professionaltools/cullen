@@ -1,0 +1,23 @@
+{
+  "name": "@cullen/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "vue eslint",
+  "keywords": [
+    "vue",
+    "eslint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@vue/eslint-config-standard": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^7.4.1"
+  }
+}
