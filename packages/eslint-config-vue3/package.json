@@ -4,7 +4,8 @@
   "description": "vue3 eslint",
   "keywords": [
     "vue3",
-    "eslint"
+    "eslint",
+    "prettier"
   ],
   "author": "",
   "license": "ISC",
