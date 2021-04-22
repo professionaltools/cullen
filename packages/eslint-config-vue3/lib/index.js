@@ -1,14 +1,16 @@
 module.exports = {
   "extends": [
-    "plugin:vue/vue3-essential"
+    "plugin:vue/vue3-essential",
+    "@vue/prettier",
+    "@vue/prettier/@typescript-eslint"
   ],
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
   "plugins": [
     "@typescript-eslint",
     "typescript"
   ],
-  "parserOptions": {
-    "parser": "@typescript-eslint/parser"
-  },
   "rules": {
     "vue/html-quotes": ["error", "double"],
     "semi": ["error", "never"],
