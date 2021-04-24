@@ -9,6 +9,7 @@ module.exports = {
     "comma-dangle": ["error","always-multiline"],
     "quotes": ["error","double"]
   },
+  root:true,
   env:{
     "browser": true,
     "node": true,
