@@ -16,6 +16,5 @@
     "eslint": "^7.25.0",
     "eslint-plugin-typescript": "^0.14.0",
     "eslint-plugin-vue": "^7.9.0"
-  },
-  "gitHead": "fc48f137d8787b9c8186e0238852b250718a5f2b"
+  }
 }
