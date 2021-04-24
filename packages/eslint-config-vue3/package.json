@@ -4,25 +4,18 @@
   "description": "vue3 eslint",
   "keywords": [
     "vue3",
-    "eslint",
-    "prettier"
+    "eslint"
   ],
   "author": "",
   "license": "ISC",
   "main": "lib/index.js",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.12.0",
-    "@typescript-eslint/parser": "^4.12.0",
-    "@vue/eslint-config-prettier": "^6.0.0",
-    "eslint": "^7.17.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^7.25.0",
     "eslint-plugin-typescript": "^0.14.0",
-    "eslint-plugin-vue": "^7.4.1",
-    "prettier": "^2.2.1"
+    "eslint-plugin-vue": "^7.9.0"
   },
   "gitHead": "fc48f137d8787b9c8186e0238852b250718a5f2b"
 }
