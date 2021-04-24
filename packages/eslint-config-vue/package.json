@@ -19,6 +19,5 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-vue": "^7.4.1"
-  },
-  "gitHead": "fc48f137d8787b9c8186e0238852b250718a5f2b"
+  }
 }
